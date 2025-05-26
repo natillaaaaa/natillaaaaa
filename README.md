@@ -9,7 +9,7 @@ I am systems engineering student with an interest in web design and frontend dev
 🌱 I’m currently learning ...
   - JavaScript
   - React js
-💬 Talk to me about science, philosophy, or anything that interests you. 
+💬 Talk to me about science, philosophy, or anything that interests you. <br>
 
 Outside tech, 💻  I love watching anime,  🎵 listen to music, and 🌴 explore nature outdoors.
 
